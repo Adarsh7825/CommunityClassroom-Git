@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06779e85-349a-4cae-8343-1c1b06474330" name="Changes" comment="" />
+    <list default="true" id="06779e85-349a-4cae-8343-1c1b06474330" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/New Array/TwoDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/LinearSearchByRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/LinearSearchByRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Stringss/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/Stringss/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rollno.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/names.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +25,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/FirstandLastPosition.java" root0="FORCE_HIGHLIGHTING" />
@@ -34,14 +46,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/HP/Desktop/Leetcode + Assignment/Arrays"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Desktop/Leetcode + Assignment/Arrays&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.SortedMatrix">
     <configuration name="CountingOfRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountingOfRotation" />

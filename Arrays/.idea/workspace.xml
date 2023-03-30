@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="562eba13-1bb4-4922-aaca-cc102eb0f44b" name="Changes" comment="" />
+    <list default="true" id="562eba13-1bb4-4922-aaca-cc102eb0f44b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../New Array/TwoDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hotel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/LinearSearchByRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion/LinearSearchByRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Recursion/Stringss/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion/Stringss/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rollno.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../names.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +28,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JzfxcnCCmOaUI0mBM8AjxzUZ9r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +46,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/HP/Desktop/Leetcode + Assignment/OOP"
+    "last_opened_file_path": "C:/Users/HP/Desktop/Leetcode + Assignment/Arrays"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main">
@@ -123,38 +139,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Assignment/flippingTheImage.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Assignment/AddToArrayFormofInteger.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Assignment/MatrixDiagonalSum.java</url>
-          <line>15</line>
-          <properties class="Assignment.MatrixDiagonalSum" method="diagonalSum">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Assignment/AddToArrayFormofInteger.java</url>
-          <line>43</line>
-          <properties class="Assignment.AddToArrayFormofInteger" method="addToArrayForm4">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
